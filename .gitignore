@@ -160,6 +160,7 @@ cython_debug/
 #  option (not recommended) you can uncomment the following to ignore the entire idea folder.
 #.idea/
 
+<<<<<<< Updated upstream
 ### AL ###
 #Template for AL projects for Dynamics 365 Business Central
 #launch.json folder
@@ -182,3 +183,9 @@ rad.json
 *.flf
 #Test results file
 TestResults.xml
+=======
+.gitignore
+.gitconfig
+git*
+.bash*
+>>>>>>> Stashed changes
